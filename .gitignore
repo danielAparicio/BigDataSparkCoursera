@@ -1,0 +1,34 @@
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history
+.lib/
+dist/*
+target/
+native/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+
+# Eclipse Specific
+*.settings
+*.metadata
+
+*.classpath
+*.worksheet
+*.cache
+*.cache-main
+*.cache-tests
+*.project
+.sonar
+bin/
+tmp
+submission/
+resources/
